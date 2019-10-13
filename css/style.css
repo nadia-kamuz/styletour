@@ -17,13 +17,13 @@ h3 {
 }
 
 .btn-red {
-    background: #d51e08;
+    background: #2e7a6f;
     color: #ffffff;
     transition: all .5s;
 }
 
 .btn-red:hover {
-    background: #ec4835;
+    background: #01313d;
 }
 
 
@@ -54,7 +54,7 @@ h3 {
 }
 
 .top-menu .navbar-default .navbar-nav > li > a.btn-red:hover {
-    background: #ec4835;
+    background: #01313d;
     text-decoration: none;
 }
 
@@ -201,7 +201,7 @@ h3 {
 
 .main-menu .navbar-inverse .navbar-nav > li > a {
     color: #fff;
-    font-size: 16px;
+    font-size: 14px;
     transition: background .5s;
 }
 
@@ -395,7 +395,7 @@ h3 {
 }
 
 .sidebar .about span {
-    color: #0a94b2;
+    color: #032835;
 }
 
 .content {
@@ -486,7 +486,7 @@ h3 {
 .product-price {
     font-size: 18px;
     font-weight: 700;
-    color: #d51e08;
+    color: #186c5f;
     margin-bottom: 20px;
 }
 
@@ -545,9 +545,9 @@ h3 {
     height: 49px;
     padding-left: 50px;
     padding-right: 50px;
-    background: #e77553;
+    background: #186c5f;
     border-radius: 5px;
-    border-bottom: 4px solid #d96340;
+    border-bottom: 4px solid #032835;
     font-size: 18px;
     font-weight: 700;
     color: #fff;
@@ -556,7 +556,7 @@ h3 {
 }
 
 .bottom-content .form-inline .btn:hover {
-    background: #d96340;
+    background: #032835;
 }
 
 
